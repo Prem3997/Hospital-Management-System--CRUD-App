@@ -1,0 +1,16 @@
+.intermountainlogo{
+    width: 15rem;
+    height: 5rem;
+}
+.navbar__link{
+    color: white;
+    padding: 0.50rem;
+    &--active{
+        color: black!important;
+    }
+    &:hover{
+        color:yellow !important;
+        text-decoration: none;
+
+    }        
+}
